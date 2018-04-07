@@ -1,0 +1,16 @@
+
+{
+	"background" : 0,
+	"httpip" : "www.huazhouxinxikeji.com",
+	"httpport" : "80",
+	"ip" : "106.15.89.177",
+	"path" : "",
+	"port" : "10026",
+	"shutdown" : 0,
+	"sn" : "GGP1510566548144",
+	"timerfour" : 4000,
+	"timerone" : 4000,
+	"timerthree" : 4000,
+	"timertwo" : 8000,
+	"type" : "1"
+}
